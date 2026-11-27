@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sarya To\u011Fy\u0131ld\u0131z\\source\\repos\\YMH219-FaceRecognition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F52445AF-8F23-44A3-AE46-872E02CA3393}|YMH219-FaceRecognition\\YMH219-FaceRecognition.csproj|c:\\users\\sarya to\u011Fy\u0131ld\u0131z\\source\\repos\\ymh219-facerecognition\\ymh219-facerecognition\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52445AF-8F23-44A3-AE46-872E02CA3393}|YMH219-FaceRecognition\\YMH219-FaceRecognition.csproj|solutionrelative:ymh219-facerecognition\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52445AF-8F23-44A3-AE46-872E02CA3393}|YMH219-FaceRecognition\\YMH219-FaceRecognition.csproj|c:\\users\\sarya to\u011Fy\u0131ld\u0131z\\source\\repos\\ymh219-facerecognition\\ymh219-facerecognition\\ymh219-facerecognition.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F52445AF-8F23-44A3-AE46-872E02CA3393}|YMH219-FaceRecognition\\YMH219-FaceRecognition.csproj|solutionrelative:ymh219-facerecognition\\ymh219-facerecognition.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52445AF-8F23-44A3-AE46-872E02CA3393}|YMH219-FaceRecognition\\YMH219-FaceRecognition.csproj|c:\\users\\sarya to\u011Fy\u0131ld\u0131z\\source\\repos\\ymh219-facerecognition\\ymh219-facerecognition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52445AF-8F23-44A3-AE46-872E02CA3393}|YMH219-FaceRecognition\\YMH219-FaceRecognition.csproj|solutionrelative:ymh219-facerecognition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Sarya To\u011Fy\u0131ld\u0131z\\source\\repos\\YMH219-FaceRecognition\\YMH219-FaceRecognition\\Form1.cs",
+              "RelativeDocumentMoniker": "YMH219-FaceRecognition\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sarya To\u011Fy\u0131ld\u0131z\\source\\repos\\YMH219-FaceRecognition\\YMH219-FaceRecognition\\Form1.cs",
+              "RelativeToolTip": "YMH219-FaceRecognition\\Form1.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAswG0BAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T16:14:30.283Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YMH219-FaceRecognition",
+              "DocumentMoniker": "C:\\Users\\Sarya To\u011Fy\u0131ld\u0131z\\source\\repos\\YMH219-FaceRecognition\\YMH219-FaceRecognition\\YMH219-FaceRecognition.csproj",
+              "RelativeDocumentMoniker": "YMH219-FaceRecognition\\YMH219-FaceRecognition.csproj",
+              "ToolTip": "C:\\Users\\Sarya To\u011Fy\u0131ld\u0131z\\source\\repos\\YMH219-FaceRecognition\\YMH219-FaceRecognition\\YMH219-FaceRecognition.csproj",
+              "RelativeToolTip": "YMH219-FaceRecognition\\YMH219-FaceRecognition.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-27T16:13:13.346Z",
+              "EditorCaption": "",
+              "OwnerCaption": "YMH219-FaceRecognition"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sarya To\u011Fy\u0131ld\u0131z\\source\\repos\\YMH219-FaceRecognition\\YMH219-FaceRecognition\\Program.cs",
+              "RelativeDocumentMoniker": "YMH219-FaceRecognition\\Program.cs",
+              "ToolTip": "C:\\Users\\Sarya To\u011Fy\u0131ld\u0131z\\source\\repos\\YMH219-FaceRecognition\\YMH219-FaceRecognition\\Program.cs",
+              "RelativeToolTip": "YMH219-FaceRecognition\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T16:14:52.428Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

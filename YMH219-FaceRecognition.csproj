@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net11.0-windows</TargetFramework>
+    <RootNamespace>YMH219_FaceRecognition</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenCvSharp4" Version="4.14.0.20261127" />
+    <PackageReference Include="OpenCvSharp4.Extensions" Version="4.14.0.20261127" />
+    <PackageReference Include="OpenCvSharp4.runtime.win" Version="4.14.0.20261127" />
+  </ItemGroup>
+
+</Project>

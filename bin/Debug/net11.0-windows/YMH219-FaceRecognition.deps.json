@@ -1,0 +1,86 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "YMH219-FaceRecognition/1.0.0": {
+        "dependencies": {
+          "OpenCvSharp4": "4.14.0.20261127",
+          "OpenCvSharp4.Extensions": "4.14.0.20261127",
+          "OpenCvSharp4.runtime.win": "4.14.0.20261127"
+        },
+        "runtime": {
+          "YMH219-FaceRecognition.dll": {}
+        }
+      },
+      "OpenCvSharp4/4.14.0.20261127": {
+        "runtime": {
+          "lib/net8.0/OpenCvSharp.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0",
+            "localPath": "OpenCvSharp.dll"
+          }
+        }
+      },
+      "OpenCvSharp4.Extensions/4.14.0.20261127": {
+        "dependencies": {
+          "OpenCvSharp4": "4.14.0.20261127"
+        },
+        "runtime": {
+          "lib/net8.0/OpenCvSharp.Extensions.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0",
+            "localPath": "OpenCvSharp.Extensions.dll"
+          }
+        }
+      },
+      "OpenCvSharp4.runtime.win/4.14.0.20261127": {
+        "runtimeTargets": {
+          "runtimes/win-x64/native/OpenCvSharpExtern.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/win-x64/native/OpenCvSharpExtern.dll"
+          },
+          "runtimes/win-x64/native/opencv_videoio_ffmpeg4140_64.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "2024.11.0.0",
+            "localPath": "runtimes/win-x64/native/opencv_videoio_ffmpeg4140_64.dll"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YMH219-FaceRecognition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenCvSharp4/4.14.0.20261127": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3hryJS8kw169RQHyyr3RWgyFzgvz5G9w+VdLxzqv9NwsiZ/UeMTtL6kQEWjwNVsheaQDN4yeFtv9g9SD+ENS3Q==",
+      "path": "opencvsharp4/4.14.0.20261127",
+      "hashPath": "opencvsharp4.4.14.0.20261127.nupkg.sha512"
+    },
+    "OpenCvSharp4.Extensions/4.14.0.20261127": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V5bteMwo2wEx60ea30F9wVnYgM6WWZdd5uC/I9S7/JB0XXJSJLOZ+1CwIPY8Q+pUEiWQQkoO4EmESYRwo5xIMw==",
+      "path": "opencvsharp4.extensions/4.14.0.20261127",
+      "hashPath": "opencvsharp4.extensions.4.14.0.20261127.nupkg.sha512"
+    },
+    "OpenCvSharp4.runtime.win/4.14.0.20261127": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cOS7u1xyY9O/DPmZuTi//5/rgcNUmT1T1A5zUyavpbTZuXpTveJqFKw02kjRIW2F5Pz/ktcXgvAdyX/znhdAvA==",
+      "path": "opencvsharp4.runtime.win/4.14.0.20261127",
+      "hashPath": "opencvsharp4.runtime.win.4.14.0.20261127.nupkg.sha512"
+    }
+  }
+}
