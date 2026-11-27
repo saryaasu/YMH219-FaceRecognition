@@ -22,12 +22,11 @@ C# ve `OpenCvSharp4` kullanılarak geliştirilmiş, kamera üzerinden gerçek za
 
 ## Ekran Görüntüleri
 
-
 ### Uygulama Penceresi
-![Uygulama Ekranı](screenshots/eşleşti.png)
-
-### GitHub Deposu
 ![Algılanan Yüz](screenshots/yuzalgılama.png)
+
+### Eşleşen fotoğraf
+![Uygulama Ekranı](screenshots/eşleşti.png)
 
 ## Bilinen Sınırlamalar / Geliştirme Notları
 - `cascades/haarcascade_frontalface_default.xml` dosyası veya aktif kamera/izin bulunmadığında kullanıcı bilgilendirme/uyarı mesajı alır
